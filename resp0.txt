@@ -1,0 +1,98 @@
+MacBook-Air-de-Eva:L0 Evita$ history
+    1  find . -type d
+    2  find */gurobi702 -type d
+    3  find */gurobi -type 
+    4  find . -type d -name "gurobi702"
+    5  cd ..
+    6  cd ..
+    7  cd ..
+    8  find . -type d -name "gurobi702"
+    9  sudo find . -type d -name "gurobi702"
+   10  cd ..
+   11  cd ..
+   12  cd Library
+   13  cd gurobi702
+   14  ls
+   15  cd mac64
+   16  ls
+   17  python setup.py install
+   18  python3 setup.py install
+   19  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   20  brew install biogeme
+   21  lsbom /private/var/db/receipts/ca.primatelabs.Geekbench2.bom
+   22  biogeme
+   23  python
+   24  biopreparedata Laboratorio3.txt
+   25  pythonbiogeme Modelo2 biogeme_Laboratorio3.txt
+   26  pythonbiogeme Modelo2 biogeme_Laboratorio3.txt
+   27  biopreparedata Laboratorio3.txt
+   28  pythonbiogeme Modelo4 biogeme_Laboratorio3.txt
+   29  pythonbiogeme_Modelo4 biogeme_Labortorio3.txt
+   30  pythonbiogeme Modelo4 biogeme_Laboratorio3.txt
+   31  pythonbiogeme Modelo4 biogeme_Laboratorio3.txt
+   32  pythonbiogeme Modelo1 biogeme_Laboratorio3.txt
+   33  biopreparedata optima.da
+   34  biopreparedata optima.dat
+   35  biopreparedata optima.dat
+   36  pythonbiogeme Lab4 biogeme_optima.dat
+   37  biopreparedata Laboratorio4.dat
+   38  pythonbiogeme masivo biogeme_Laboratorio4.dat
+   39  biopreparedata Laboratorio4.dat
+   40  pythonbiogeme motorizado biogeme_Laboratorio4.dat
+   41  pytonbiogeme motorizado biogeme_Laboratorio4.dat
+   42  pytonbiogeme motorizado biogeme_Laboratorio4.dat
+   43  pythonbiogeme motorizado biogeme_Laboratorio4.dat
+   44  biopreparedata Laboratorio4.dat
+   45  pythonbiogeme motorizado biogeme_Laboratorio4.dat
+   46  biopreparedata Laboratorio4.dat
+   47  pythonbiogeme singularidad biogeme_Laboratorio4.dat
+   48  biopreparedata BD.csv
+   49  pythonbiogeme 1 biogeme_BD.csv
+   50  pythonbiogeme 1 biogeme_BD.csv
+   51  pythonbiogeme 1 biogeme_BD.csv
+   52  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   53  brew install biogeme
+   54  pwd
+   55  ls
+   56  cd Desktop/
+   57  cd L0
+   58  git add *
+   59  ls Desktop
+   60  cd L0
+   61  cd Lab0
+   62  ls Lab0
+   63  cd Desktop
+   64  cd Lab0
+   65  git add *
+   66  git commit
+   67  git commit -m "Subir Lab 0"
+   68  git push
+   69  git push https://github.com/eclatrach/L0
+   70  git remote add repo https://github.com/eclatrach/L0
+   71  git push repo
+   72  pwd
+   73  ls
+   74  git add *
+   75  git commit -m "subiendo"
+   76  pwd
+   77  cd /users/evita/desktop
+   78  git clone https://github.com/eclatrach/L0
+   79  cd L0
+   80  git add*
+   81  git add *
+   82  git commit -m "Subiendo"
+   83  git push
+   84  git config --global user.email eclatrach@uc.cl
+   85  git commit --amend --reset-author
+   86  ls
+   87  cw L0
+   88  git add *
+   89  cd L0
+   90  cd Desktop
+   91  cd L0
+   92  git add *
+   93  git commit -m "subir"
+   94  git push
+   95  git push
+   96  git pull
+   97  history
